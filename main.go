@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/multi-modules-project/module1"
+	"github.com/AlexKryvets/multi-modules-project"
 )
 
 func main() {

@@ -2,6 +2,6 @@ module multi-modules-project
 
 go 1.18
 
-require github.com/multi-modules-project/module1 lastest // indirect
+require github.com/AlexKryvets/multi-modules-project lastest // indirect
 
-replace github.com/multi-modules-project/module1 => ./module1
+replace github.com/AlexKryvets/multi-modules-project => ./module1
